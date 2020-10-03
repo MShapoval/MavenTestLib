@@ -14,14 +14,6 @@
         <github.maven-plugin>0.10</github.maven-plugin>
     </properties>
 
-    <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>MavenTestLib</name>
-            <url>https://maven.pkg.github.com/MShapoval/MavenTestLib</url>
-        </repository>
-    </distributionManagement>
-
 
     <build>
         <plugins>
